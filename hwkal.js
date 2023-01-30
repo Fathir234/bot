@@ -11,9 +11,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HAMZXPRESET'
-global.ig = 'https://www.instagram.com/hmzz.x'
-global.mygc = 'wa.me/6285893481599'
+global.youtube = 'https://www.youtube.com/channel/UCRehUxDGAjTKs00cru_4Gew'
+global.ig = 'https://www.instagram.com/smart_store241284/'
+global.mygc = 'wa.me/6281290802585'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
